@@ -6,6 +6,10 @@ All of the information shown is based on fictional organisations. I retain exclu
 <div>&nbsp;</div>
 
 ## Summary
+Most companies are scaling their technologies faster than their knowledge repositories. With the introduction of the EU AI Act, ISO/IEC 42001, and the NIST AI RMF, standards and compliance are no longer a requirement but a due diligence requirement. <br><br>
+This is where I come in. <br><br>
+Whether you are preparing for an audit or just need a documentation system that finally makes sense, I bridge the gap between documentation debt and operational clarity.
+Turning disorganised technical data into structured knowledge management solutions that are clear, compliant, and ready for any audit.<br><br>
 On this page, xx
 <div>&nbsp;</div>
 
