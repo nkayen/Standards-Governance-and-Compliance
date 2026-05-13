@@ -1,6 +1,8 @@
 # Standards-Governance-and-Compliance
 ## Knowledge Management, Architecture, and Governance
-This repository showcases the process and frameworks that go into governance-led knowledge architecture. Taking into account standards and regulatory practises such as ITIL, ISO/IEC 27001 &amp; 42001, and the EU AI Act. All of the information shown is based on fictional organisations. I retain exclusive IP ownership of all material as developed by me. 
+This repository showcases the process and frameworks that go into governance-led knowledge architecture. <br>
+Taking into account standards and regulatory practises such as ITIL, ISO/IEC 27001 &amp; 42001, and the EU AI Act. <br>
+All of the information shown is based on fictional organisations. I retain exclusive IP ownership of all material as developed by me. 
 <div>&nbsp;</div>
 
 ## Summary
