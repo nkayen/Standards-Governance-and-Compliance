@@ -14,24 +14,46 @@ On this page, xx
 <div>&nbsp;</div>
 
 ## Sample Profile Overview
-All sample documentation is based on fictional organisations with an AI and Technology profile.
+The below are fictional organisations created by AI for sample use cases and process framework creation purposes and hold no legal validity.
 <br>
-**Profile 1:**
-Industry
-Size
-Scope
+### Profile 1: Global Cloud Company — IT Services & Managed SaaS  
+Size / Scope: 8.500 staff · \$2.15 B revenue · Global (NA | EMEA | APAC)  
+Notable constraints:  
+- Weekly mainframe outage complicates CAB evidence  
+- 99.99 % SaaS-uptime ⇒ 24 h incident record closure  
+- 60 % cloud / 40 % on-prem (JP & DE)
 <br><br>
 
-**Profile 2:**
-Industry
-Size
-Scope
+### Profile 2: Medical AI Company — Digital-Health Start-up  
+Size / Scope: 45 staff · \$6 M revenue · US | CA | UK pilots  
+Notable constraints:  
+- FDA 510(k) submission pending (QMS evidence needed)  
+- HIPAA + EU AI Act high-risk overlap  
+- 2-week ML release cadence strains change control
 <br><br>
 
-**Profile 3:**
-Industry
-Size
-Scope
+### Profile 3: Eco Friendly Providor — Renewable-Energy IoT Scale-up  
+Size / Scope: 180 staff · \$22 M revenue · UK HQ + Nordics | AU  
+Notable constraints:  
+- Edge devices must run offline > 72 h  
+- Legacy MQTT broker limits asset onboarding  
+- ETSI EN 303 645 compliance baseline for IoT
+<br><br>
+
+### Profile 4: Payment Labs Business — FinTech Payments Scale-up  
+Size / Scope: 300 staff · \$65 M revenue · US | EU | SG  
+Notable constraints:  
+- < 200 ms authorisation latency requires real-time logs  
+- Quarterly ASV scans + annual ROC (PCI DSS 4.0)  
+- Zero tolerance for documentation-revision slippage
+<br><br>
+
+### Profile 5: Group — Construction & Civil Engineering  
+Size / Scope: 1.200 staff · \$480 M revenue · US | MX | EU JV  
+Notable constraints:  
+- 25-year retention of design artefacts (public works)  
+- Union rules restrict on-site monitoring technologies  
+- Drone GPR analytics may be “high-risk” under EU AI Act
 <div>&nbsp;</div>
 
 ## Sample Checklists, Templates, and Frameworks
